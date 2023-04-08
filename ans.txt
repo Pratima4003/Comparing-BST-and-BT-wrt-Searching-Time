@@ -1,0 +1,6 @@
+1000 wala bst tree: 13.65
+10000 wala bst tree: 17.06
+100000 wala bst tree: 21.06
+
+1000 wala bt tree: 886.11
+10000 wala bt tree: 4938.35
